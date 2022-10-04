@@ -107,7 +107,7 @@ GEM
     nio4r (2.5.2)
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
-    pdfkit (0.8.4.2)
+    pdfkit (0.8.7)
     puma (3.12.6)
     rack (2.2.2)
     rack-test (0.6.3)
